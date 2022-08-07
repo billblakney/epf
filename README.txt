@@ -21,3 +21,6 @@ are described above.
 Can alternately use xml files within the dialogs that manage
 the code formatting preferences (e.g. one for java and a
 different one for cpp).
+
+To import C++ format preferences file in xml format:
+Preferences->C/C++->Code Style->Formatter->Import...
